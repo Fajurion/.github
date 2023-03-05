@@ -1,10 +1,8 @@
 ## Fajurion Open Source
-This is the official repository of Fajurion Open Source. We develop various different apps with the goal of giving people
-an alternative to paid software as well as to offer free educational software such as the Learn project.
+This is the official repository of Fajurion Open Source. We develop apps that work together nicely on top of our account system.
 
 ## Current projects
-The current and biggest project yet is Learn, a open-source learn platform, for better education. The default version is
-currently available in German. We'll eventually offer a englisch version of the software.
+We are currently working on an end-to-end encrypted chat app. It'll feature all the modern standards of chat apps and work seamlessly across all your devices (Windows, Mac, Linux, Android, iOS).
 
 <!--
 
