@@ -2,9 +2,7 @@
 This is the official repository of Fajurion Open Source. We develop apps that work together nicely on top of our account system.
 
 ## Current projects
-We are currently working on an end-to-end encrypted chat app. It'll feature all the modern standards of chat apps and work seamlessly across all your devices (Windows, Mac, Linux, Android, iOS).
-
-The second project is currently Fajurion Voice. It is a proximity voice chat system that is based on the pipes Framework, that can run on all major desktop operation systems (Windows, Mac, Linux).
+We are going for projects all across the web, like our chat app which is end-to-end encrypted and will hopefully release at the end of 2023. We are also working on a MMO kind of game where everyone is in the same world, some exciting stuff, but that'll of course take a lot of time. You can look at our progress in the public repositories for our voice chat (voice node + voice client)
 
 <!--
 
