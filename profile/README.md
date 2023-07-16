@@ -1,8 +1,7 @@
 ## Fajurion Open Source
 This is the official repository of Fajurion Open Source. We develop apps that work together nicely on top of our account system.
 
-## Current projects
-We are going for projects all across the web, like our chat app which is end-to-end encrypted and will hopefully release at the end of 2023. We are also working on a MMO kind of game where everyone is in the same world, some exciting stuff, but that'll of course take a lot of time. You can look at our progress in the public repositories for our voice chat (voice node + voice client)
+All my heart and soul is currently going into building a horizontally scalable event pipeline I can use for almost any project I wanna create. I'm just doing this cause I don't know what ideas I'll have in the future and I want a good foundation for accounts, udp networking, websocket networking and scalability.
 
 <!--
 
