@@ -1,8 +1,5 @@
-## Fajurion Open Source
-This is the official repository of Fajurion Open Source. We develop apps that work together nicely on top of our account system.
-
-All my heart and soul is currently going into building a horizontally scalable event pipeline I can use for almost any project I wanna create. I'm just doing this cause I don't know what ideas I'll have in the future and I want a good foundation for accounts, udp networking, websocket networking and scalability.
-
+## The Fajurion apps
+This will probably receive another name at some point, but for now welcome, you can look at the source code of some my apps here. Well if you want to that is. There isn't really anything complete in here YET.
 <!--
 
 **Here are some ideas to get you started:**
