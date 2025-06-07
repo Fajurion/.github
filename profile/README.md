@@ -1,12 +1,5 @@
-## The Fajurion apps
-This will probably receive another name at some point, but for now welcome, you can look at the source code of some my apps here. Well if you want to that is. There isn't really anything complete in here YET.
-<!--
+## All of the apps and packages in this organization are no longer maintained
 
-**Here are some ideas to get you started:**
+Fajurion used to be an attempt to create open-source apps that don't suck. That's what everyone is trying to do right? But since there aren't any contributions anywhere on this organization or projects have been migrated away, I decided to put this little reminder here.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Most of the projects here continue to live in the new [Liphium organization](https://github.com/Liphium) where the goal is to build a chat app that can finally compete with Discord. Huge goal, years of work, but I will see this through.
